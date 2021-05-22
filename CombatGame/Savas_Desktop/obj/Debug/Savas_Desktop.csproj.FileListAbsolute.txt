@@ -1,0 +1,13 @@
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_Desktop\bin\Debug\Savas_Desktop.exe.config
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_Desktop\bin\Debug\Savas_Desktop.exe
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_Desktop\bin\Debug\Savas_Desktop.pdb
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_Desktop\obj\Debug\Savas_Desktop.csprojAssemblyReference.cache
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_Desktop\obj\Debug\Savas_Desktop.Properties.Resources.resources
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_Desktop\obj\Debug\Savas_Desktop.csproj.GenerateResource.cache
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_Desktop\obj\Debug\Savas_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_Desktop\obj\Debug\Savas_Desktop.exe
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_Desktop\obj\Debug\Savas_Desktop.pdb
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_Desktop\obj\Debug\Savas_Desktop.ana_form.resources
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_Desktop\bin\Debug\Savas_library.dll
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_Desktop\bin\Debug\Savas_library.pdb
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_Desktop\obj\Debug\Savas_Desktop.csproj.CopyComplete

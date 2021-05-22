@@ -1,0 +1,6 @@
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_library\bin\Debug\Savas_library.dll
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_library\bin\Debug\Savas_library.pdb
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_library\obj\Debug\Savas_library.csprojAssemblyReference.cache
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_library\obj\Debug\Savas_library.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_library\obj\Debug\Savas_library.dll
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Savas\Savas_library\obj\Debug\Savas_library.pdb
